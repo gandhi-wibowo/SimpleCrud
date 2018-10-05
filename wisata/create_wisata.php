@@ -1,3 +1,5 @@
+<!-- 
+just add comment for https://hacktoberfest.digitalocean.com/details -->
 <?php
 require_once('../config/koneksi.php');
 
